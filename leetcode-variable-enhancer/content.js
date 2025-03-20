@@ -132,7 +132,7 @@ function getCodeFromEditor() {
 
 // Call Gemini API to enhance variables, with AI language detection
 async function enhanceWithGemini(code) {
-  const apiKey = "AIzaSyDfRdRh4TPcukjYWCA7MOu7PWTXdme9K1M"; // Replace with your key
+  const apiKey = "Gemini-api-key"; // Replace with your key
   const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
   const prompt = `First, identify the programming language of this code. Then, suggest more meaningful variable names based on their usage and context. Return only the enhanced code without additional explanations or markdown.\n\nCode:\n\n${code}`;
