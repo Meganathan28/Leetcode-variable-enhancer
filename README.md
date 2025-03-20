@@ -38,8 +38,6 @@ Fork the repository.
 Create a new branch (feature-xyz).
 Make changes and commit (git commit -m "Added new feature").
 Push to your branch and create a Pull Request.
-📜 License
-This project is licensed under the MIT License.
 
 ⭐ Support
 If you find this extension useful, consider starring the repo ⭐ and sharing it!
