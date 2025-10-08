@@ -12,7 +12,7 @@ Clone this repository
 sh
 Copy
 Edit
-git clone https://github.com/your-username/leetcode-variable-enhancer.git
+git clone https://github.com/Meganathan28/leetcode-variable-enhancer.git
 cd leetcode-variable-enhancer
 Open Chrome and navigate to:
 chrome://extensions/
