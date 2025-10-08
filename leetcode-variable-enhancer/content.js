@@ -229,9 +229,5 @@ window.addEventListener("load", () => {
 // Check periodically in case the editor loads later
 setInterval(addEnhanceButton, 1000);
 
-// Add a message t
-//
-//
-//
-//
-//
+
+
